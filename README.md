@@ -5,3 +5,7 @@ Este es el primer proyecto que creamos para aprender a usar Github
 **negrita** 
 
 *cursiva*
+
+* Tatiana Encina
+* Curso BackEnd 
+* Comisión online3
