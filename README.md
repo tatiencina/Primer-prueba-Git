@@ -9,3 +9,5 @@ Este es el primer proyecto que creamos para aprender a usar Github
 * Tatiana Encina
 * Curso BackEnd 
 * Comisión online3
+
+[Linkedin] (https://www.linkedin.com/in/tatiana-encina/)
