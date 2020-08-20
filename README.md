@@ -1,12 +1,12 @@
-# Primer-prueba-Git
-Este es el primer proyecto que creamos para aprender a usar Github
+# Primer-prueba-Git 
+Este es el primer proyecto que creamos para aprender a usar Github :smile:
 ## Este encabezado es más chico
 ### Y este todavía más chico 
 **negrita** 
 
 *cursiva*
 
-* Tatiana Encina
+* Tatiana Encina :bowtie:
 * Curso BackEnd 
 * Comisión online3
 
