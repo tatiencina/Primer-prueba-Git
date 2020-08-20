@@ -10,7 +10,7 @@ Este es el primer proyecto que creamos para aprender a usar Github :smile:
 ***Este texto es más importante que los anteriores***
 
 * Tatiana Encina :bowtie:
-* Curso BackEnd 
-* Comisión online3
+* Curso BackEnd ADA :hibiscus:
+* Comisión online3 :computer:
 
 Visita mi perfil de [LinkedIn](https://www.linkedin.com/in/tatiana-encina/)
