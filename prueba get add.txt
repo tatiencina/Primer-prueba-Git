@@ -1,1 +1,2 @@
 Creo archivo desde la pc para subir al git
+Editando cositas para el ejercicio
